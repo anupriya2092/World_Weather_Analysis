@@ -11,7 +11,7 @@ Perform analysis on the weather data collected through API
 3. With the help of various modules like citipy module in python we generated random cities all around the world and then using weather APIs we have collected the 
    required weather parameters for those cities like the maximum temperature, humidity, wind speed etc. The data collected is as below:
    
-   [WeatherPy_Database](./Weather_Database/WeatherPy_Database.txt)
+   [WeatherPy_Database](./Weather_Database/WeatherPy_Database.csv)
    
    
 4. Based on the temperature preferences of the customer we have retrieved the information about the nearby hotels through google maps API as shown below. We have also added the
